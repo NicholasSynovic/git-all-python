@@ -21,8 +21,8 @@ As you can imagine, this program results in a considerable amount of computer st
 
 This project is based off of the work of:
 
-- [@gkthiruvathukal](https://github.com/gkthiruvathukal) and his [`git-all-scala`](https://github.com/gkthiruvathukal/git-all-scala)
-- [@samw430](https://github.com/samw430) and his [`git-all-scala`](https://github.com/samw430)
+- [@gkthiruvathukal](https://github.com/gkthiruvathukal) and their [`git-all-scala`](https://github.com/gkthiruvathukal/git-all-scala)
+- [@samw430](https://github.com/samw430) and their [`git-all-scala`](https://github.com/samw430)
 
 ## How to Execute
 
