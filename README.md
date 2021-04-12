@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Git Commit Exploder](#git-commit-exploder)
+- [Git All Python](#git-all-python-git-commit-exploder)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [How to Execute](#how-to-execute)
@@ -34,7 +34,7 @@ This project is based off of the work of:
 ### Steps to Execute
 
 1. In your terminal, run `python -m pip install progress` **or** `python -m pip install -r requirements.txt`
-2. In your terminal, run `python gitCommitExploder.py -u GIT_REPO_URL` where `GIT_REPO_URL` is the repository that you are cloning to your local machine
+2. In your terminal, run `python git-all-python.py -u GIT_REPO_URL -s OUTPUT` where `GIT_REPO_URL` is the repository that you are cloning to your local machine and `OUTPUT` is the destination folder of all the exploded commits.
 
 ### Command Line Arguements
 
