@@ -1,4 +1,4 @@
-# Git Commit Exploder
+# Git All Python (Git Commit Exploder)
 
 > Program which checkouts all previous versions of a Git repository and stores them in a `temp` directory
 
@@ -18,6 +18,11 @@
 This program is meant to take a git repository, go through **EVERY** commit on **EVERY** branch in that repository and create a git repository initalized at that specific commit.
 
 As you can imagine, this program results in a considerable amount of computer storage being used up.
+
+This project is based off of the work of:
+
+- [@gkthiruvathukal](https://github.com/gkthiruvathukal) and his [`git-all-scala`](https://github.com/gkthiruvathukal/git-all-scala)
+- [@samw430](https://github.com/samw430) and his [`git-all-scala`](https://github.com/samw430)
 
 ## How to Execute
 
