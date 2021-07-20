@@ -2,6 +2,10 @@
 
 > Program which checkouts all previous versions of a Git repository and stores them in a `temp` directory
 
+## Warning
+
+This program is now depricated as a proof of concept. Please go to the new home of `git-all-python` [here](https://github.com/NicholasSynovic/gap).
+
 ## Table of Contents
 
 - [Git All Python](#git-all-python-git-commit-exploder)
